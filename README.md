@@ -1,2 +1,2 @@
-# WebClipper
-剪藏中转
+# WebClipperImage
+剪藏中转图片
